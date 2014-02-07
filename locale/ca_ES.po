@@ -4,7 +4,7 @@ msgstr "Content-Type: text/plain; charset=utf-8\n"
 
 msgctxt "view:account.invoice:"
 msgid "Tax Amount"
-msgstr "Impuestos"
+msgstr "Impostos"
 
 msgctxt "view:account.invoice:"
 msgid "Total Amount"
