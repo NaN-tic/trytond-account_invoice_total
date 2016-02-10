@@ -2,6 +2,8 @@
 Facturación. Totales en los listados
 ====================================
 
-Añade los campos totales el la lista de facturas.
+Añade los campos totales en la lista de facturas y en los apuntes a
+pagar/cobrar de los terceros.
 
-La selección a sumar deben ser facturas con la misma moneda.
+Advertencia: La suma solo tiene sentido si todas las filas seleccionadas
+tienen la misma moneda.

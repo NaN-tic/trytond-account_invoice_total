@@ -1,6 +1,7 @@
 Account Invoice Total Module
 ############################
 
-The account invoice total module add totals in invoice tree view.
+The account invoice total module add totals in invoice list view and in
+payable/receivable move lines of parties.
 
-Warning: Select rows are same currency.
+Warning: The sum only has sense if all selected rows have the same currency.
