@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<!-- This file is part account_invoice_total module for Tryton.
+The COPYRIGHT file at the top level of this repository contains the full copyright notices and license terms. -->
+<tryton>
+    <data>
+        <record model="ir.ui.view" id="move_line_view_list_payable_receivable">
+            <field name="model">account.move.line</field>
+            <field name="inherit" ref="account.move_line_view_list_payable_receivable"/>
+            <field name="name">move_line_list_payable_receivable</field>
+        </record>
+    </data>
+</tryton>

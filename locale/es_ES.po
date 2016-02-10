@@ -13,3 +13,7 @@ msgstr "Total"
 msgctxt "view:account.invoice:"
 msgid "Untaxed Amount"
 msgstr "Base imponible"
+
+msgctxt "view:account.move.line:"
+msgid "Amount"
+msgstr "Importe"
